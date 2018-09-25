@@ -1,5 +1,5 @@
 {
-    "name": "ethanhann/laravel-redisearch",
+    "name": "sawisia/laravel-redisearch",
     "type": "library",
     "description": "RediSearch integration for Laravel",
     "keywords": [
